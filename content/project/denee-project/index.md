@@ -1,4 +1,4 @@
-
+---
 title: "Membranes for Selective Rare Earth Element Recovery"
 summary: "A peptide-functionalized polymer-clay membrane for selectively recovering rare earth elements (REEs) from acid mine drainage."
 image:
@@ -6,4 +6,4 @@ image:
   focal_point: Smart
 ---
 
-![Peptide-functionalized PCL–sepiolite membrane capturing and releasing REEs](GRFP figure.jpg)
+![Peptide-functionalized PCL–sepiolite membrane capturing and releasing REEs](GRFP%20figure.jpg)
