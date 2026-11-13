@@ -6,4 +6,4 @@ image:
   focal_point: Smart
 ---
 
-![Peptide-functionalized PCL–sepiolite membrane capturing and releasing REEs](GRFP Figure.jpg)
+![Peptide-functionalized PCL–sepiolite membrane capturing and releasing REEs](GRFP figure.jpg)
