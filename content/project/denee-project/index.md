@@ -1,6 +1,6 @@
 ---
-title: "Denee's Project"
-summary: "Placeholder — project title and summary to be added."
+title: "Membranes for Selective Rare Earth Element Recovery"
+summary: "A peptide-functionalized polymer–clay membrane for selectively recovering rare earth elements (REEs) from acid mine drainage."
 image:
   caption: ''
   focal_point: Smart
